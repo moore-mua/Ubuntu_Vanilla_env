@@ -1,0 +1,2 @@
+# ubuntu　vanilla environment
+このリポジトリはubuntuのDevcontainer環境を手軽に作成できるようにしたものです。(Apple silicon搭載のMac)
