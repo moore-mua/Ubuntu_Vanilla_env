@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  ubuntu_vanilla:
+    build: .
+    restart: always
+    tty: true

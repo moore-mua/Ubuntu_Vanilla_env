@@ -1,0 +1,6 @@
+{
+    "name": "ubuntu_vanilla",
+    "dockerComposeFile": "../compose.yml",
+    "service": "ubuntu_vanilla",
+    "workspaceFolder": "/workspace"
+}
